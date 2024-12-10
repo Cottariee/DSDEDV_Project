@@ -1,0 +1,34 @@
+.venv
+
+# Secret Key
+setting.py
+
+# ignore database
+Database/2018/*
+Database/2019/*
+Database/2020/*
+Database/2021/*
+Database/2022/*
+Database/2023/*
+
+# ignore computed data
+Classifying/2018/literature_info.json
+Classifying/2019/literature_info.json
+Classifying/2020/literature_info.json
+Classifying/2021/literature_info.json
+Classifying/2022/literature_info.json
+Classifying/2023/literature_info.json
+Extracting_part/Author_country_city/2018/*
+Extracting_part/Author_country_city/2019/*
+Extracting_part/Author_country_city/2020/*
+Extracting_part/Author_country_city/2021/*
+Extracting_part/Author_country_city/2022/*
+Extracting_part/Author_country_city/2023/*
+Extracting_part/Author_country_city/Unique_country_city/global_unique_country_cities.json
+Extracting_part/Author_organization/2018/*
+Extracting_part/Author_organization/2019/*
+Extracting_part/Author_organization/2020/*
+Extracting_part/Author_organization/2021/*
+Extracting_part/Author_organization/2022/*
+Extracting_part/Author_organization/2023/*
+Extracting_part/Author_organization/Unique_organization/global_unique_organizations.json
