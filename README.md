@@ -3,6 +3,9 @@
 ## Project Overview  
 This project aims to analyze academic literature data from 2018-2023 using techniques in **Data Science**, **Data Engineering**, and **Data Visualization**. The system provides insights and recommendations based on selected categories, while also offering a analysis of the authors' network, popular research trends, and geographic clustering.
 
+
+<img src="https://cdn.discordapp.com/attachments/1159735483249721396/1363231309865947388/IMG_9409.png?ex=68054797&is=6803f617&hm=34ef4acce4be7c0c88468e59a23528d18591d97ca840ec7685a9fdcbc0bf08bc&" alt="Alt text" width="950"/>
+
 ### Key Features
 1. **Literature Recommendation**  
    - Provides paper recommendations based on a selected category.
